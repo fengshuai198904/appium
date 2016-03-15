@@ -1,0 +1,3 @@
+{"modularname":"home","casename":"test_homeindex","op":"click","target":"//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[14]","targetType":"xpath"}
+{"modularname":"home","casename":"test_homeindex","op":"click","target":"icon nav fanhui normal","targetType":"name"}
+{"modularname":"home","casename":"test_homeindex","op":"assertDisplay","target":"搜索商家或地点","targetType":"name"}
