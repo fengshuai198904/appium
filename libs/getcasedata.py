@@ -7,7 +7,7 @@
 ################################################################################
 """
 This module is the log module Baidu.com supplies
-author yezhaosheng(com@baidu.com)
+author
 """
 
 import urllib2
