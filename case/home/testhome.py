@@ -47,10 +47,10 @@ class Test(unittest.TestCase):
             '//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[3]')
         operation.send_key(operationdriver, 'xpath', 
             '//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIATextField[1]',
-             0, '13917973631')
+             0, '1354634531')
         operation.send_key(operationdriver, 'xpath', 
             '//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIASecureTextField[1]',
-             0, '19890407')
+             0, '198453453453')
         operation.click(operationdriver, 'xpath', 
             '//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAButton[1]')
 
